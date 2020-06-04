@@ -1,4 +1,4 @@
-### Practice Outside-In TDD with system/acceptance tests
+### Outside-In TDD with system/acceptance tests
 
 ## Acceptance Criteria
 
